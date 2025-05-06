@@ -1,0 +1,267 @@
+Month,Incident Number,Date of Incident,Day of Week,Number of Victims under 18,Number of Victims over 18,Number of Offenders under 18,Number of Offenders over 18,Race/Ethnicity of Offenders,Offense(s),Offense Location,Bias,Zip Code,APD Sector,Council District
+Jan,2017-241137,01/01/2017 12:00:00 AM,Sun,0,1,0,1,White/Not Hispanic,Aggravated Assault,Park/Playground,Anti-Black or African American,78704,Henry,9
+Feb,2017-580344,02/01/2017 12:00:00 AM,Wed,0,1,0,1,Black or African American/Not Hispanic,Aggravated Assault,Highway/Road/Alley/Street/Sidewalk,Anti-White,78702,Charlie,1
+Mar,2017-800291,03/21/2017 12:00:00 AM,Tue,0,0,0,0,Unknown,Destruction,Highway/Road/Alley/Street/Sidewalk,Anti-Jewish,78757,Ida,7
+Apr,2017-1021534,04/12/2017 12:00:00 AM,Wed,0,0,0,0,White/Unknown,Simple Assault,Air/Bus/Train Terminal,Anti-Jewish,78723,Ida,1
+May,2017-1351550,05/15/2017 12:00:00 AM,Mon,1,0,1,2,White/Not Hispanic,Simple Assault,Residence/Home,Anti-Gay (Male),78750,Adam,6
+Jun,2017-1550219,06/04/2017 12:00:00 AM,Sun,0,1,0,2,White/Unknown,Simple Assault,Highway/Road/Alley/Street/Sidewalk,Anti-Gay (Male),78701,George,9
+Jun,2017-1660914,06/15/2017 12:00:00 AM,Thu,0,1,0,1,White/Not Hispanic,Intimidation,Bank/Savings and Loan,Anti-Hispanic or Latino,78701,George,9
+Jun,2017-1681488,06/17/2017 12:00:00 AM,Sat,0,1,0,1,White/Not Hispanic,Simple Assault,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,78712,Baker,9
+Jul,2017-1820275,07/01/2017 12:00:00 AM,Sat,0,1,0,1,Group of Multiple Races,Simple Assault,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,78701,George,9
+Jul,2017-1862526,07/05/2017 12:00:00 AM,Wed,0,1,0,1,Group of Multiple Races,Intimidation,Residence/Home,Anti-Black or African American,78723,Ida,4
+Jul,2017-2011198,07/20/2017 12:00:00 AM,Thu,0,1,0,1,Group of Multiple Races,Robbery,Residence/Home,Anti-Transgender,78726,Adam,10
+Jul,2017-2020124,07/21/2017 12:00:00 AM,Fri,0,1,0,1,White/Unknown,Destruction,Residence/Home,Anti-Gay (Male),78757,Baker,7
+Oct,2017-2880227,10/15/2017 12:00:00 AM,Sun,0,1,0,1,White/Hispanic or Latino,Simple Assault,Highway/Road/Alley/Street/Sidewalk,Anti-Black or African American,78701,George,9
+Oct,2017-2971392,10/24/2017 12:00:00 AM,Tue,0,1,2,0,White/Hispanic or Latino,Intimidation,Residence/Home,Anti-Gay (Male),78741,Henry,3
+Nov,2017-3141125,11/10/2017 12:00:00 AM,Fri,0,1,0,1,White/Not Hispanic,Simple Assault,Restaurant,Anti-Islamic (Muslim),78753,Ida,4
+Nov,2017-3200108,11/16/2017 12:00:00 AM,Thu,0,1,0,1,White/Unknown,Simple Assault,Other/Unknown,Anti-Islamic (Muslim),78705,Baker,9
+Nov,2017-5043049,11/26/2017 12:00:00 AM,Sun,0,1,0,0,Unknown,Intimidation,Parking/Drop Lot,Anti-Hispanic or Latino,78724,Charlie,1
+Jan,2018-200595,01/19/2018 12:00:00 AM,Fri,0,0,0,0,Unknown,Vandalism,Parking Lot/Garage,Anti-Black,78750,Adam,6
+Jan,2018-251458,01/25/2018 12:00:00 AM,Thu,0,2,0,1,White/NotHispanic,Burglary/Assault,Residence/Home,Anti-Lesbian,78745,Frank,3
+Feb,2018-400447,02/08/2018 12:00:00 AM,Thu,0,1,0,1,White/NotHispanic,Assault,Parking Lot/Garage,Anti-Gay,78704,David,3
+Feb,2018-530804,02/22/2018 12:00:00 AM,Thu,0,1,0,1,White/NotHispanic,Vandalism,Highway/Road/Street,Anti-Black,78723,Ida,4
+Mar,2018-611809,03/02/2018 12:00:00 AM,Fri,0,1,0,4,Black/Unknown,Assault,Highway/Road/Street,Anti-Hispanic,78744,Frank,2
+Mar,2018-651279,03/06/2018 12:00:00 AM,Tue,0,0,1,1,White/NotHispanic,Vandalism,Convenience Store,Anti-Arab,78758,Adam,7
+Mar,2018-670117,03/08/2018 12:00:00 AM,Thu,0,1,0,1,White/NotHispanic,Assault,Highway/Road/Street,Anti-Black,78701,George,9
+Apr,2018-911582,04/01/2018 12:00:00 AM,Sun,0,1,0,1,White/NotHispanic,Intimidation,Parking Lot/Garage,Anti-Black,78717,Adam,6
+Apr,2018-120696,04/30/2018 12:00:00 AM,Mon,0,1,0,1,White/Hispanic,Assault,Streets/Highway/Road/Alley,Anti-White,,,
+May,2018-1410057,05/21/2018 12:00:00 AM,Mon,0,1,0,1,White/Hispanic,Assault,Bar/Nightclub,Anti-Gay,78752,Ida,4
+Jun,2018-1671923,06/16/2018 12:00:00 AM,Sat,0,1,0,1,White/Hispanic,Assault,Parking Lot/Garage,Anti-Gay (Male),78741,Henry,3
+Jun,2018-1791666,06/28/2018 12:00:00 AM,Thu,0,1,0,1,White/NotHispanic,Assault,Convenience Store,Anti-Black,78758,Adam,7
+Aug,2018-2250662,08/13/2018 12:00:00 AM,Mon,0,1,0,1,White/NotHispanic,Assault,Residence/Home,Anti-Black,78756,Ida,7
+Aug,2018-5033471,08/25/2018 12:00:00 AM,Sat,0,1,0,1,Asian/NotHispanic,Assault,Convenience Store,Anti-Black,78752,Ida,4
+Sep,2018-2521623,09/09/2018 12:00:00 AM,Sun,0,1,0,1,White/Hispanic,Theft,Bar/Nightclub,Anti-Disability,78745,David,2
+Sep,2018-2531786,09/11/2018 12:00:00 AM,Tue,0,1,0,1,White/NotHispanic,Aggravated Assault,Church/Synagogue,Anti-Black,78705,Baker,9
+Oct,2018-2840756,10/11/2018 12:00:00 AM,Thu,1,0,0,1,White/NotHispanic,Assault,Park/Playground,Anti-Hispanic,78704,Henry,9
+Oct,2018-2921720,10/19/2018 12:00:00 AM,Fri,0,1,0,1,Black/NotHispanic,Assault,Highway/Road/Street,Anti-Transgender,78758,Edward,4
+Dec,2018-3491016,12/15/2018 12:00:00 AM,Sat,0,1,0,1,White/Hispanic,Assault,Streets/Highway/Road/Alley,Anti-Hispanic,78745,David,3
+Jan,2019-8000242,12/29/2018 12:00:00 AM,Sat,0,1,0,0,Unknown,Assault,Bar/Nightclub,Anti-Gay (Male),78701,George,9
+Jan,2019-190201,01/19/2019 12:00:00 AM,Sat,0,2,0,4,White/Hispanic (2) White/NonHispanic (2),Assault,Streets/Highway/Road/Alley,Anti-Gay (Male),78701,George,9
+Feb,2019-531028,02/22/2019 12:00:00 AM,Fri,0,1,0,0,Unknown,Vandalism,Residence/Home,Anti-Jewish,78751,Ida,9
+Mar,2019-901579,03/31/2019 12:00:00 AM,Sun,0,1,0,1,White/Hispanic,Assault,Bar/Nightclub,Anti-Gay (Male),78752,Ida,4
+Apr,2019-941819,04/04/2019 12:00:00 AM,Sat,0,1,0,3,White/Hispanic,Assault,School-Elementary/Secondary,Anti-Hispanic/Latino,78754,Edward,7
+Jun,2019-1621946,06/11/2019 12:00:00 AM,Tue,0,1,0,2,Black/Not Hispanic,Criminal Mischief,Hotel/Motel,Anti-White,78752,Ida,4
+Aug,2019-2181959,08/06/2019 12:00:00 AM,Tue,1,0,3,0,White/Hispanic (3),Assault,Parking Lot/Garage,Anti-Islamic(Muslim),78717,Adam,6
+Aug,2019-2240026,08/12/2019 12:00:00 AM,Mon,0,1,0,1,White/Not Hispanic,Intimidation,Drug Store/Dr.'s office/Hospital,Anti-Black or African American,78745,David,5
+Aug,2019-2351905,08/24/2019 12:00:00 AM,Sat,0,1,0,1,White/Hispanic,Assault,Bar/Nightclub,Anti-Gay (Male),78701,George,9
+Nov,2019-3271657,11/23/2019 12:00:00 AM,Sat,0,1,0,1,White/Not Hispanic,Assault,Streets/Highway/Road/Alley,Anti-Gay (Male),78701,George,9
+Dec,2019-3531078,12/19/2019 12:00:00 AM,Thu,0,1,0,1,White/Not Hispanic,Intimidation,Shelter-Mission/Homeless,Anti-Black or African American,78701,George,9
+Dec,2019-3641765,12/30/2019 12:00:00 AM,Mon,0,1,0,1,White/Not Hispanic,Assault,Streets/Highway/Road/Alley,Anti-Black or African American,78745,David,3
+Mar,2020-602085,03/01/2020 12:00:00 AM,Sun,0,1,0,1,White/Non-Hispanic,Criminal Mischief,Residence/Home,Anti-Black or African American,78759,Adam,10
+Mar,2020-680226,03/08/2020 12:00:00 AM,Sun,0,1,0,2,White/Hispanic,Assault,Parking Lot,Anti-Gay (Male); Anti-Transgender,78753,Edward,4
+Mar,2020-5011788,03/22/2020 12:00:00 AM,Sun,0,1,0,0,Unknown,Criminal Mischief,Residence/Home,Anti-Gay (Male); Anti-Jewish,78757,Baker,7
+Apr,2020-5015689,04/21/2020 12:00:00 AM,Mon,0,1,0,0,Unknown,Criminal Mischief,Church/Synagogue/Temple/Mosque,Anti-Buddhist,78758,Edward,7
+Apr,2020-5016804,04/29/2020 12:00:00 AM,Wed,0,1,0,1,Black/Non-Hispanic,Assault by Threat,Department/Discount Store,Anti-Gay (Male); Anti-Transgender,78723,Charlie,1
+May,2020-1381131,05/17/2020 12:00:00 AM,Sun,0,1,0,1,White/Non-Hispanic,Assault by Contact,Convenience Store,Anti-Black or African American,78705,Baker,9
+May,2020-1410411,05/20/2020 12:00:00 AM,Wed,0,1,0,1,White/Non-Hispanic,Assault with Injury,Streets/Highway/Road/Alley,Anti-Hispanic or Latino,78701,Baker,9
+Jun,2020-1560947,06/04/2020 12:00:00 AM,Thu,0,1,0,1,Unknown,Criminal Mischief,Residence/Home,Anti-Black or African American,78727,Adam,7
+Jun,2020-1610708,06/09/2020 12:00:00 AM,Tue,0,1,0,1,Unknown,Criminal Mischief,Streets/Highway/Road/Alley,Anti-Black or African American,78727,Adam,7
+Jun,2020-1690572,06/17/2020 12:00:00 AM,Wed,0,1,0,1,Unknown,Criminal Mischief,Parking Lot,Anti-Black or African American,78745,Frank,2
+Jun,2020-1750961,06/23/2020 12:00:00 AM,Tue,0,1,0,1,Unknown,Criminal Mischief,Streets/Highway/Road/Alley,Anti-Black or African American,78727,Adam,7
+Jun,2020-1760563,06/24/2020 12:00:00 AM,Mon,0,1,0,1,White/Non-Hispanic,Assault by Threat,Construction Site,Anti-Black or African American,78617,Airport,2
+Jul,2020-2061031,07/24/2020 12:00:00 AM,Fri,0,1,0,1,White/Hispanic,Aggravated Assault,Streets/Highway/Road/Alley,Anti-Gay (Male),78741,Henry,3
+Aug,2020-2411593,08/28/2020 12:00:00 AM,Fri,0,1,0,1,White/Non-Hispanic,Aggravated Assault,Streets/Highway/Road/Alley,Anti-Black or African American,78753,Edward,4
+Sep,2020-2470835,09/03/2020 12:00:00 AM,Thu,0,1,0,1,Unknown,Criminal Mischief,Streets/Highway/Road/Alley,Anti-Black or African American,78704,David,9
+Sep,2020-2680600,09/24/2020 12:00:00 AM,Thu,0,1,0,1,White/Non-Hispanic,Assault by Threat,Streets/Highway/Road/Alley,Anti-Black or African American,78701,George,9
+Oct,2020-2821029,10/08/2020 12:00:00 AM,Thu,0,1,0,1,Black/Non-Hispanic,Assault with Injury,Streets/Highway/Road/Alley,Anti-White,78701,George,9
+Oct,2020-5042285,10/19/2020 12:00:00 AM,Mon,0,1,0,1,Black/Non-Hispanic,Aggravated Assault,Parking Lots/ Garage,Anti-Gay (Male),78751,Baker,9
+Nov,2020-3110610,11/06/2020 12:00:00 AM,Fri,0,1,0,1,White/Non-Hispanic,Assault with Injury,Specialty Store,Anti-Lesbian/Gay/Transgender,78745,David,5
+Nov,2020-3170909,11/12/2020 12:00:00 AM,Thu,0,1,0,1,Unknown,Bomb Threat,Government/ Public Building,Anti-Black or African American,78744,Frank,2
+Nov,2020-3261352,11/21/2020 12:00:00 AM,Sat,0,1,0,1,White/Non-Hispanic,Reckless Driving,Streets/Highway/Road/Alley,Anti-Black or African American,78749,David,10
+Nov,2020-3350913,11/30/2020 12:00:00 AM,Mon,0,1,0,1,Black/Non-Hispanic,Burglary of Residence,Residence/Home,Anti-Gay (Male),78617,Henry,2
+Dec,2020-3441066,12/09/2020 12:00:00 AM,Wed,0,1,0,1,Black/Non-Hispanic,Criminal Mischief,Parking Lots/ Garage,Anti-Gay (Male),78617,Henry,2
+Dec,2020-3490121,12/14/2020 12:00:00 AM,Mon,0,1,0,1,White/Non-Hispanic,Aggravated Assault,Streets/Highway/Road/Alley,Anti-Gay (Male),78753,Edward,7
+Jan,2021-5002678,01/11/2021 12:00:00 AM,Mon,0,1,0,0,Unknown,Criminal Mischief,Residence/Home,Anti-Jewish,78705,Baker,9
+Mar,2021-740616,03/15/2021 12:00:00 AM,Mon,0,1,0,1,Unknown,Terroristic Threat,Dr. Office,Anti-Jewish,78745,Frank,5
+Apr,2021-961628,04/06/2021 12:00:00 AM,Tue,0,1,0,1,Black or African American/Non-Hispanic,Assault with Injury,Other,Anti-Transgender,78753,Edward,1
+May,2021-1440774,05/24/2021 12:00:00 AM,Mon,0,1,0,1,White/Non-Hispanic,Assault by Contact,Streets/Highway/Road/Alley,Anti-Gay (Male),78701,George,9
+May,2021-1511164,05/31/2021 12:00:00 AM,Mon,0,2,0,1,White/Hispanic or Latino,Terroristic Threat,Residence/Home,Anti-Black or African American,78744,Frank,2
+Jun,2021-1561457,06/05/2021 12:00:00 AM,Sat,0,1,0,1,Black or African American/Non-Hispanic,Robbery by Assault,Residence/Home,Anti-White,78726,Adam,10
+Jun,2021-1630613,06/12/2021 12:00:00 AM,Sat,0,1,0,1,White/Unknown,Assault with Injury,Streets/Highway/Road/Alley,Anti-Gay (Male),78745,David,5
+Jul,2021-1881168,07/07/2021 12:00:00 AM,Wed,1,0,0,1,White/Non-Hispanic,Disorderly Conduct- Abusive Language,Parking Lots/Garage,Anti-Black or African American,78731,Baker,10
+Aug,2021-2351164,08/23/2021 12:00:00 AM,Mon,0,3,0,0,Unknown,Criminal Mischief,Parking Lots/Garage,Anti-Black or African American,78731,Baker,10
+Aug,2021-5028563,08/25/2021 12:00:00 AM,Wed,0,1,0,0,Unknown,Criminal Mischief,Residence/Home,Anti-Black or African American,78745,David,5
+Aug,2021-2371422,08/25/2021 12:00:00 AM,Wed,0,1,0,1,White/Non-Hispanic,Terroristic Threat,Gas/Service Stations,Anti-Black or African American,78701,George,9
+Aug,2021-2370776,08/25/2021 12:00:00 AM,Wed,0,1,0,1,White/Non-Hispanic,Terroristic Threat,Streets/Highway/Road/Alley,Anti-Black or African American,78730,Adam,10
+Aug,2021-2380934,08/26/2021 12:00:00 AM,Thu,0,1,0,1,Black or African American/Non-Hispanic,Assault with Injury,Hospital,Anti-Hispanic or Latino,78705,Baker,9
+Sep,2021-2440814,09/01/2021 12:00:00 AM,Wed,0,1,0,1,White/Non-Hispanic,Assault by Threat,Restaurant,Anti-Gay (Male),78741,Henry,3
+Sep,2021-2481706,09/05/2021 12:00:00 AM,Sun,0,1,0,1,White/Hispanic or Latino,Assault by Injury,Parking Lots/Garage,Anti-Transgender,78741,Henry,3
+Sep,2021-2530622,09/10/2021 12:00:00 AM,Fri,0,1,0,1,Unknown,Harassment,Residence/Home,Anti-Black or African American,78758,Adam,7
+Oct,2021-2791268,10/06/2021 12:00:00 AM,Wed,0,2,0,1,White/Non-Hispanic,Assault with Injury,Grocery/Supermarket,Anti-Black or African American,78751,Baker,9
+Oct,2021-2820890,10/09/2021 12:00:00 AM,Sat,0,1,0,1,Black or African American/Non-Hispanic,Assault by Threat,Residence/Home,Anti-Gay (Male),78721,Charlie,1
+Oct,2021-2930343,10/20/2021 12:00:00 AM,Wed,0,1,0,1,Asian/Non-Hispanic,Assault with Injury,Residence/Home,Anti-Black or African American,78723,Ida,4
+Oct,2021-2970116,10/24/2021 12:00:00 AM,Sun,0,1,0,1,White/Unknown,Robbery by Assault,Streets/Highway/Road/Alley,Anti-Black or African American,78701,George,9
+Oct,2021-3041556,10/31/2021 12:00:00 AM,Sun,0,1,0,,Unknown,Arson,Church/Synagogue/Temple/Mosque,Anti-Jewish,78756,Baker,10
+Nov,2021-3150875,11/11/2021 12:00:00 AM,Thu,0,1,0,1,White/Non-Hispanic,Aggravated Assault,Highway/Road/Alley/Street,Anti-Gay (Male),78723,Ida,1
+Nov,2021-3240067,11/20/2021 12:00:00 AM,Sat,0,1,0,4,White/Hispanic or Latino,Aggravated Robbery,Parking Lots/Garage,Anti-Gay (Male),78753,Edward,1
+Nov,2021-5042258,11/30/2021 12:00:00 AM,Tue,0,1,0,,Unknown,Criminal Mischief,Residence/Home,Anti-Jewish,78705,Baker,9
+Dec,2021-3381649,12/04/2021 12:00:00 AM,Sat,1,0,0,1,White/Non-Hispanic,Injury to Child,Residence/Home,Anti-Hispanic or Latino,78613,Adam,6
+Dec,2021-3451516,12/11/2021 12:00:00 AM,Sat,0,1,0,1,White/Non-Hispanic,Assault with Injury,Streets/Highway/Road/Alley,Anti-Black or African American,78705,University of Texas,9
+Jan,2022-5001986,01/13/2022 12:00:00 AM,Thu,0,1,0,1,White/Non-Hispanic,Assault by Contact,Grocery/Supermarket,Anti-Lesbian (Female),78723,Baker,9
+Jan,2022-5004180,01/23/2022 12:00:00 AM,Sun,0,1,0,1,Black or African American/Non-Hispanic,Assault with Injury,Transportation (Air/Bus/Train Terminals),Anti-Transgender,78721,Charlie,1
+Jan,2022-230302,01/23/2022 12:00:00 AM,Sun,0,1,0,1,White/Hispanic,Aggravated Assault,Residence/Home,Anti-Transgender,78752,Ida,4
+Jan,2022-5003782,01/30/2022 12:00:00 AM,Sun,0,1,0,Unknown,Unknown,Criminal Mischief,Park/Playground,Anti-Black,78757,Ida,7
+Feb,2022-5004355,02/11/2022 12:00:00 AM,Fri,0,1,0,1,White/Non-Hispanic,Harassment,Government/Public Building,Anti-Jewish,78701,George,9
+Mar,2022-860143,03/27/2022 12:00:00 AM,Sun,0,2,0,1,White/Non-Hispanic,Assault with Injury,Bar/Nightclub,Anti-Gay (Male),78701,George,9
+Apr,2022-1020259,04/11/2022 12:00:00 AM,Mon,0,1,0,1,Black or African American/Non-Hispanic,Assault by Threat,Bar/Nightclub,Anti-Other Race/Ethnicity/Ancestry,78741,Henry,3
+Apr,2022-1080623,04/18/2022 12:00:00 AM,Mon,0,1,0,1,White/Non-Hispanic,Bomb Threat,Bar/Nightclub,Anti-Lesbian/Gay/Bisexual/Transgender (Mixed Group),78701,George,9
+May,2022-1471643,05/27/2022 12:00:00 AM,Fri,0,1,0,1,Black or African American/Non-Hispanic,Assault by Threat,Park/Playground,Anti-Hispanic or Latino,78719,Airport,2
+Jun,2022-1560010,06/05/2022 12:00:00 AM,Sun,0,1,0,1,Black or African American/Non-Hispanic,Assault with Injury,Parking/Drop Lot/Garage,Anti-Hispanic or Latino,78721,Charlie,3
+Jun,2022-1581536,06/08/2022 12:00:00 AM,Wed,1,0,0,1,White/Non-Hispanic,Assault with Injury,Hwy/Road/Alley/Street/Sidewalk,Anti-Gay (Male),78723,Ida,4
+Jun,2022-1651133,06/14/2022 12:00:00 AM,Tue,0,1,0,1,Black or African American/Non-Hispanic,Aggravated Assault,Air/Bus/Train Terminal,Anti-Gay (Male),78753,Ida,4
+Jun,2022-1660217,06/15/2022 12:00:00 AM,Wed,0,1,0,Unknown,Unknown,Criminal Mischief,Hwy/Road/Alley/Street/Sidewalk,Anti-Lesbian/Gay/Bisexual/Transgender (Mixed Group),78723,Ida,1
+Jun,2022-8010889,06/17/2022 12:00:00 AM,Fri,0,1,0,Unknown,Unknown,Criminal Mischief,Residence/Home,Anti-Jewish,78726,Adam,10
+Jun,2022-1781674,06/27/2022 12:00:00 AM,Mon,0,1,0,2,Black or African American/Non-Hispanic,Aggravated Assault,Residence/Home,Anti-Bisexual,78741,Henry,3
+Jul,2022-1821448,07/01/2022 12:00:00 AM,Fri,0,1,0,1,Black or African American/Non-Hispanic,Assault with Injury,Convenience Store,Anti-White,78702,Charlie,1
+Jul,2022-1891122,07/08/2022 12:00:00 AM,Fri,0,2,0,1,Asian/Non-Hispanic,Aggravated Assault,Residence/Home,Anti-Hispanic or Latino,78753,Edward,7
+Jul,2022-1901342,07/09/2022 12:00:00 AM,Sat,1,1,0,1,Black or African American/Non-Hispanic,Aggravated Assault,Park/Playground,Anti-White,78724,Charlie,1
+Jul,2022-5020674,07/13/2022 12:00:00 AM,Wed,0,2,0,1,White/Non-Hispanic,Harassment,Commercial/Office Building,Anti-Jewish,78749,David,8
+Jul,2022-5023869,07/25/2022 12:00:00 AM,Thu,1,0,1,0,White/Hispanic,Harassment,School-Elementary/Secondary,Anti-Gay (Male),78703,Baker,10
+Aug,2022-2260351,08/14/2022 12:00:00 AM,Sun,0,1,0,1,White/Hispanic,Sodomy,Bar/Nightclub,Anti-Gay (Male),78753,Edward,4
+Aug,2022-2290893,08/17/2022 12:00:00 AM,Wed,0,1,0,1,White/Non-Hispanic,Aggravated Assault,Hwy/Road/Alley/Street/Sidewalk,Anti-Black or African American,78731,Baker,10
+Aug,2022-2320240,08/20/2022 12:00:00 AM,Sat,0,1,0,1,White/Non-Hispanic,Assault with Injury,Hwy/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,78741,Henry,3
+Aug,2022-2361469,08/24/2022 12:00:00 AM,Wed,0,1,0,1,White/Non-Hispanic,Assault by Threat,Residence/Home,Anti-Transgender,78704,David,5
+Aug,2022-2360048,08/24/2022 12:00:00 AM,Wed,0,1,0,1,White/Non-Hispanic,Assault with Injury,Residence/Home,Anti-Islamic (Muslim),78705,Baker,9
+Sep,2022-2570732,09/14/2022 12:00:00 AM,Wed,0,0,0,Unknown,Unknown,Terroristic Threat,Church/Synagogue/Temple/Mosque,Anti-Protestant,78750,Adam,6
+Sep,2022-8018849,09/21/2022 12:00:00 AM,Wed,Unknown,1,Unknown,Unknown,Unknown,Criminal Mischief,Parking/Drop Lot/Garage,Anti-Black or African American,78744,Frank,2
+Oct,2022-2770039,10/04/2022 12:00:00 AM,Tue,0,1,0,1,White/Hispanic,Aggravated Assault,Hwy/Road/Alley/Street/Sidewalk,Anti-Black or African American,78701,George,9
+Oct,2022-2771059,10/04/2022 12:00:00 AM,Tue,1,0,1,0,White/Hispanic,Assault by Threat,School-Elementary/Secondary,Anti-Transgender,78744,Frank,2
+Oct,2022-2820061,10/09/2022 12:00:00 AM,Sun,0,1,0,3,White/Hispanic,Aggravated Assault,Parking/Drop Lot/Garage,Anti-Hispanic or Latino,78758,Edward,4
+Oct,2022-8019452,10/16/2022 12:00:00 AM,Sun,0,1,0,1,White/Non-Hispanic,Assault by Threat,Residence/Home,Anti-Asian,78746,David,8
+Oct,2022-5030938,10/18/2022 12:00:00 AM,Tue,0,1,Unknown,Unknown,Unknown,Theft,Residence/Home,Anti-Lesbian/Gay/Bisexual/Transgender (Mixed Group),78757,Ida,4
+Oct,2022-3020077,10/29/2022 12:00:00 AM,Sat,0,1,0,1,White/Hispanic,Assault with Injury,Residence/Home,Anti-Gay (Male),78702,Charlie,1
+Nov,2022-8021018,11/06/2022 12:00:00 AM,Sun,0,1,Unknown,Unknown,Unknown,Criminal Mischief,Parking/Drop Lot/Garage,Anti-Lesbian/Gay/Bisexual/Transgender (Mixed Group),78753,Edward,1
+Nov,2022-8021171,11/06/2022 12:00:00 AM,Sun,0,1,Unknown,Unknown,Unknown,Criminal Mischief,Residence/Home,Anti-White,78745,Frank,2
+Nov,2022-3160119,11/12/2022 12:00:00 AM,Sat,0,1,0,1,Asian/Non-Hispanic,Terroristic Threat,Residence/Home,Anti-Gay (Male),78751,Baker,9
+Nov,2022-3270569,11/23/2022 12:00:00 AM,Wed,0,1,0,1,White/Non-Hispanic,Terroristic Threat,Residence/Home,Anti-Black or African American,78758,Edward,4
+Nov,2022-8022452,11/29/2022 12:00:00 AM,Tue,0,1,0,1,Unknown,Assault by Threat,Commercial/Office Building,Anti-Black or African American,78724,Charlie,1
+Nov,2022-3340149,11/30/2022 12:00:00 AM,Wed,0,1,0,1,Black or African American/Non-Hispanic,Assault with Injury,Parking/Drop Lot/Garage,Anti-Arab,78741,Henry,3
+Dec,2022-5033200,12/05/2022 12:00:00 AM,Mon,0,1,0,1,White/Non-Hispanic,Theft,Residence/Home,Anti-Jewish,78731,Baker,10
+Dec,2022-3530054,12/19/2022 12:00:00 AM,Mon,0,1,0,1,White/Hispanic,Burglary of Residence,Residence/Home,Anti-Black or African American,78702,Charlie,3
+Dec,2022-3570768,12/23/2022 12:00:00 AM,Fri,0,1,Unknown,Unknown,Unknown,Burglary of Non Residence,Church/Synagogue/Temple/Mosque,Anti-Asian,78758,Edward,7
+Dec,2022-3651118,12/31/2022 12:00:00 AM,Sat,0,1,0,1,Black or African American/Non-Hispanic,Assault with Injury,Residence/Home,Anti-Gay (Male),78756,Ida,7
+Jan,2023-8000294,01/05/2023 12:00:00 AM,Thu,0,1,Unknown,Unknown,Unknown,Criminal Mischief,Commercial/Office Building,Anti-Black or African American,78757,Baker,7
+Jan,2023-70154,01/07/2023 12:00:00 AM,Sat,0,1,0,1,White/Non-Hispanic,Assault with Injury,Hwy/Road/Alley/Street/Sidewalk,Anti-Physical Disability,78701,George,9
+Jan,2023-8000482,01/07/2023 12:00:00 AM,Sat,0,1,0,Unknown,Unknown,Criminal Mischief,Residence/Home,Anti-Gay (Male),78752,Ida,1
+Jan,2023-8001432,01/20/2023 12:00:00 AM,Fri,0,1,1,0,White/Hispanic,Criminal Mischief,Residence/Home,Anti-Lesbian/Gay/Bisexual/Transgender (Mixed Group),78723,Ida,1
+Feb,2023-570673,02/26/2023 12:00:00 AM,Sun,0,1,0,1,Black or African American/Non-Hispanic,Terroristic Threat,Hwy/Road/Alley/Street/Sidewalk,Anti-Lesbian/Gay/Bisexual/Transgender (Mixed Group),78701,George,9
+Mar,2023-650704,03/06/2023 12:00:00 AM,Mon,0,1,0,1,White/Unknown,Assault by Threat,Other/Unknown,Anti-Hispanic or Latino,78744,Frank,2
+Mar,2023-771434,03/18/2023 12:00:00 AM,Sat,0,1,0,1,White/Non-Hispanic,Aggravated Assault,Hwy/Road/Alley/Street/Sidewalk,Anti-Gay (Male),78701,George,9
+Apr,2023-910235,04/01/2023 12:00:00 AM,Sat,0,1,0,1,White/Non-Hispanic,Assault by Contact,Bar/Nightclub,Anti-Gay (Male),78701,George,9
+Apr,2023-911459,04/02/2023 12:00:00 AM,Sun,0,1,0,1,Black or African American/Non-Hispanic,Assault with Injury,Residence/Home,Anti-Gay (Male),78702,Charlie,3
+Apr,2023-981073,04/08/2023 12:00:00 AM,Sat,0,2,0,1,White/Non-Hispanic,Aggravated Assault,Parking/Drop Lot/Garage,Anti-Black or African American,78748,Frank,5
+Apr,2023-9017649,04/17/2023 12:00:00 AM,Mon,0,1,0,1,White/Non-Hispanic,Harassment,Residence/Home,Anti-Hispanic or Latino,78702,Charlie,1
+Apr,2023-1120835,04/22/2023 12:00:00 AM,Sat,0,1,0,2,White/Non-Hispanic,Harassment,Residence/Home,Anti-Gay (Male),78754,Edward,1
+May,2023-1220980,05/02/2023 12:00:00 AM,Tue,0,1,0,1,Black or African American/Non-Hispanic,Aggravated Assault,Residence/Home,Anti-White,78744,Frank,2
+Jun,2023-1561251,06/05/2023 12:00:00 AM,Mon,0,1,0,1,Black or African American/Non-Hispanic,Assault with Injury,Parking/Drop Lot/Garage,Anti-Gay (Male),78758,Edward,4
+Jun,2023-1870868,06/13/2023 12:00:00 AM,Tue,0,1,Unknown,Unknown,Unknown,Criminal Mischief,Park/Playground,Anti-Black or African American,78741,Henry,3
+Jun,2023-9006240,06/15/2023 12:00:00 AM,Thu,0,1,0,1,White/Non-Hispanic,Criminal Mischief,Bar/Nightclub,Anti-Lesbian/Gay/Bisexual/Transgender (Mixed Group),78701,George,9
+Jun,2023-1700175,06/19/2023 12:00:00 AM,Mon,0,1,0,1,Black or African American/Non-Hispanic,Murder,Camp/Campground,Anti-Gay (Male),78758,Edward,4
+Jun,2023-9006687,06/21/2023 12:00:00 AM,Wed,0,1,Unknown,Unknown,Unknown,Harassment,Arena/Stadium/Fairgrounds/Coliseum,Anti-Black or African American,78758,Adam,7
+Jun,2023-1760202,06/25/2023 12:00:00 AM,Sun,0,2,Unknown,Unknown,Unknown,Assault with Injury,Air/Bus/Train Terminal,Anti-Gay (Male),78701,George,9
+Jul,2023-9009217,07/04/2023 12:00:00 AM,Tue,0,1,Unknown,Unknown,White/Unknown,Criminal Mischief,Residence/Home,Anti-Lesbian/Gay/Bisexual/Transgender (Mixed Group),78704,David,5
+Jul,2023-9007617,07/06/2023 12:00:00 AM,Thu,0,1,Unknown,Unknown,Unknown,Criminal Mischief,Commercial/Office Building,Anti-Lesbian/Gay/Bisexual/Transgender (Mixed Group),78741,Henry,3
+Jul,2023-1880327,07/07/2023 12:00:00 AM,Fri,0,1,0,1,Black or African American/Non-Hispanic,Terroristic Threat,Park/Playground,Anti-Gay (Male),78704,David,9
+Jul,2023-1891334,07/08/2023 12:00:00 AM,Sat,0,1,0,1,White/Hispanic,Aggravated Assault,Hwy/Road/Alley/Street/Sidewalk,Anti-Black or African American; Anti-Gay (Male),78701,George,9
+Jul,2023-5016769,07/10/2023 12:00:00 AM,Mon,0,1,Unknown,Unknown,Unknown,Assault by Threat,Parking/Drop Lot/Garage,Anti-White,78721,Charlie,3
+Jul,2023-9008129,07/13/2023 12:00:00 AM,Thu,0,1,Unknown,Unknown,Unknown,Criminal Mischief,Parking/Drop Lot/Garage,Anti-American Indian/Alaskan Native,78741,Henry,3
+Aug,2023-5020542,08/13/2023 12:00:00 AM,Sun,0,1,1,0,White/Non-Hispanic,Criminal Mischief,Hwy/Road/Alley/Street/Sidewalk,Anti-Black or African American,78727,Adam,7
+Aug,2023-5019682,08/14/2023 12:00:00 AM,Mon,0,1,0,Unknown,White/Unknown,Harassment,Residence/Home,Anti-Hispanic or Latino,78758,Edward,4
+Aug,2023-9010452,08/14/2023 12:00:00 AM,Mon,0,1,Unknown,Unknown,Unknown,Criminal Mischief,Residence/Home,Anti-Black or African American,78727,Adam,7
+Aug,2023-2421482,08/30/2023 12:00:00 AM,Wed,0,1,Unknown,Unknown,Unknown,Theft,Residence/Home,Anti-Lesbian/Gay/Bisexual/Transgender (Mixed Group),78745,Frank,2
+Aug,2023-2431066,08/31/2023 12:00:00 AM,Thu,0,1,0,1,Asian/Non-Hispanic,Murder,Shopping Mall,Anti-Female,78759,Adam,10
+Aug,2023-2431066,08/31/2023 12:00:00 AM,Thu,0,1,0,1,Asian/Non-Hispanic,Aggravated Assault,Shopping Mall,Anti-Female,78759,Adam,10
+Sep,2023-2531268,09/10/2023 12:00:00 AM,Sun,1,0,1,0,White/Hispanic,Assault,Parking/Drop Lot/Garage,Anti-Black or African American,78752,Ida,4
+Sep,2023-2550207,09/12/2023 12:00:00 AM,Tue,0,1,0,1,Black or African American/Non-Hispanic,Assault with Injury,Abandoned/Condemned Structure,Anti-Gay (Male),78701,Baker,9
+Sep,2023-2631163,09/20/2023 12:00:00 AM,Wed,0,2,0,1,White/Non-Hispanic,Criminal Mischief,Residence/Home,Anti-Jewish,78705,Baker,9
+Sep,2023-2681380,09/25/2023 12:00:00 AM,Mon,0,1,0,1,White/Unknown,Assault by Contact,Hwy/Road/Alley/Street/Sidewalk,Anti-Islamic (Muslim),78758,Adam,7
+Sep,2023-9013550,09/26/2023 12:00:00 AM,Tue,0,1,0,1,Unknown,Harassment,Residence/Home,Anti-Asian,78745,David,3
+Oct,2023-2781304,10/05/2023 12:00:00 AM,Thu,0,1,0,1,White/Unknown,Assault with Injury,Air/Bus/Train Terminal,Anti-Transgender,78741,Henry,3
+Oct,2023-2820496,10/09/2023 12:00:00 AM,Mon,0,1,0,1,White/Unknown,Criminal Mischief,Church/ Synagogue/Temple/Mosque,Anti-Jewish,78705,Baker,9
+Oct,2023-2840683,10/11/2023 12:00:00 AM,Wed,0,1,0,1,White/Non-Hispanic,Terroristic Threat,Commercial/Office Building,"Anti-Multi Races, Group",78704,David,5
+Oct,2023-9015087,10/17/2023 12:00:00 AM,Tue,0,1,0,1,White/Hispanic,Terroristic Threat,Commercial/Office Building,Anti-White,78723,Baker,9
+Oct,2023-3000606,10/27/2023 12:00:00 AM,Fri,0,1,0,1,White/Non-Hispanic,Assault with Injury,Service/Gas Station,Anti-Arab,78748,Frank,5
+Nov,2023-5026665,11/02/2023 12:00:00 AM,Thu,0,1,Unknown,Unknown,Unknown,Terroristic Threat,Hotel/ Motel/ Etc.,Anti-Jewish,78701,George,9
+Nov,2023-9016569,11/04/2023 12:00:00 AM,Sat,0,1,0,1,Unknown/Hispanic,Criminal Mischief,Commercial/Office Building,Anti-White,78705,Baker,9
+Nov,2023-3090534,11/05/2023 12:00:00 AM,Sun,0,1,Unknown,Unknown,Unknown,Criminal Mischief,Parking/Drop Lot/Garage,Anti-Lesbian/Gay/Bisexual/Transgender (Mixed Group),78702,Charlie,3
+Nov,2023-5027377,11/05/2023 12:00:00 AM,Sun,0,1,Unknown,Unknown,Unknown,Criminal Mischief,Hwy/Road/Alley/Street/Sidewalk,Anti-Jewish,78705,Baker,9
+Nov,2023-3111507,11/07/2023 12:00:00 AM,Tue,0,1,0,1,White/Hispanic,Assault,Specialty Store,Anti-Lesbian,78745,David,3
+Nov,2023-3301164,11/25/2023 12:00:00 AM,Sat,0,1,0,1,White/Hispanic,Assault with Injury,Hwy/Road/Alley/Street/Sidewalk,Anti-Gay (Male),78753,Edward,4
+Nov,2023-3341256,11/30/2023 12:00:00 AM,Thu,0,1,0,1,White/Hispanic,Assault with Injury,Restaurant,Anti-Black or African American,78702,Charlie,3
+Dec,2023-3520435,12/18/2023 12:00:00 AM,Mon,0,1,Unknown,Unknown,Unknown,Terroristic Threat,Community Center,Anti-Jewish,78731,Baker,10
+Dec,2023-3621246,12/28/2023 12:00:00 AM,Thu,0,1,Unknown,Unknown,Unknown,Harassment,Residence/Home,Anti-Black or African American,78723,Ida,4
+Dec,2023-3650494,12/31/2023 12:00:00 AM,Sun,0,1,Unknown,Unknown,Unknown,Terroristic Threat,Church/ Synagogue/Temple/Mosque,Anti-Jewish,78731,Baker,10
+Jan,2024-40673,01/02/2024 12:00:00 AM,Tue,0,2,0,3,Black and White/Non-Hispanic,Aggravated Robbery,Restaurant,Anti-Gay (Male),78701,George,9
+Jan,2024-9000664,01/06/2024 12:00:00 AM,Sat,0,1,0,1,White/Non-Hispanic,Terroristic Threat,Commercial/Office Building,Anti-Lesbian/Gay/Bisexual/Transgender (Mixed Group),78703,Baker,9
+Jan,2024-261198,01/26/2024 12:00:00 AM,Fri,0,1,0,1,Black/Non-Hispanic,Assault,Air/Bus/Train Terminal,Anti-Asian,78756,Ida,4
+Jan,2024-9001852,01/27/2024 12:00:00 AM,Sat,0,1,Unknown,Unknown,Unknown,Criminal Mischief,Residence/Home,Anti-Jewish,78701,George,9
+Feb,2024-351341,02/04/2024 12:00:00 AM,Sun,0,1,0,1,White/Non-Hispanic,Aggravated Assault,Hwy/Road/Alley/Street/Sidewalk,Anti-Multi-Races Group; Anti-Islamic,78705,Baker,9
+Feb,2024-401191,02/09/2024 12:00:00 AM,Fri,0,1,0,1,White/Non-Hispanic,Assault,Parking/Drop Lot/Garage,Anti-Gay (Male),78752,Ida,4
+Feb,2024-531452,02/22/2024 12:00:00 AM,Thu,0,1,0,1,Black/Non-Hispanic,Terroristic Threat,Residence/Home,Anti-Black or African American,78754,Edward,7
+Feb,2024-5005420,02/25/2024 12:00:00 AM,Sun,0,1,0,1,White/Non-Hispanic,Criminal Mischief,Residence/Home,Anti-Gay (Male),78745,David,5
+Mar,2024-620620,03/02/2024 12:00:00 AM,Sat,0,1,Unknown,Unknown,Unknown,Criminal Mischief,Hwy/Road/Alley/Street/Sidewalk,Anti-Jewish,78703,Baker,10
+Mar,2024-620936,03/02/2024 12:00:00 AM,Sat,0,1,Unknown,Unknown,Unknown,False Report,Church/Synagogue/Temple/Mosque,Anti-Religion (Other),78705,Baker,9
+Mar,2024-5006954,03/13/2024 12:00:00 AM,Wed,0,1,0,1,White/Non-Hispanic,Assault,Hwy/Road/Alley/Street/Sidewalk,Anti-Black or African American,78753,Edward,4
+Mar,2024-9005490,03/13/2024 12:00:00 AM,Wed,0,1,Unknown,Unknown,Unknown,Criminal Mischief,Hwy/Road/Alley/Street/Sidewalk,Anti-Jewish,78705,Baker,9
+Mar,2024-9005585,03/28/2024 12:00:00 AM,Thu,0,1,0,1,White/Non-Hispanic,Terroristic Threat,Residence/Home,Anti-Black or African American,78751,Ida,4
+Apr,2024-9005974,04/05/2024 12:00:00 AM,Fri,0,1,Unknown,Unknown,White/Non-Hispanic/Hispanic,Assault,Hwy/Road/Alley/Street/Sidewalk,Anti-Islamic (Muslim),78705,Baker,9
+Apr,2024-1060028,04/14/2024 12:00:00 AM,Sun,0,1,0,1,White/Non-Hispanic,Terroristic Threat,Bar/Nightclub,Anti-Islamic (Muslim),78703,Baker,10
+Apr,2024-1120939,04/21/2024 12:00:00 AM,Sun,0,3,0,4,White & Asian/Hispanic & Non-Hispanic,Assault,Hwy/Road/Alley/Street/Sidewalk,Anti-Gay (Male),78701,George,9
+Apr,2024-1190347,04/28/2024 12:00:00 AM,Sun,0,1,0,5,White/Hispanic & Non-Hispanic,Robbery,Convenience Store,Anti-Transgender,78702,Charlie,3
+May,2024-1270754,05/05/2024 12:00:00 AM,Sun,0,1,0,1,Unknown,Assault,Bar/Nightclub,Anti-Gay (Male),78701,George,9
+May,2024-5012125,05/06/2024 12:00:00 AM,Mon,0,1,0,1,White/Non-Hispanic,Terroristic Threat,Church/Synagogue/Temple/Mosque,Anti-Jewish,78705,Baker,9
+May,2024-1470693,05/26/2024 12:00:00 AM,Sun,0,1,0,1,Unknown,Assault,Bar/Nightclub,Anti-Gay (Male),78702,Charlie,3
+Jun,2024-9009544,06/01/2024 12:00:00 AM,Sat,0,1,0,1,White/Non-Hispanic,Harassment,Hwy/Road/Alley/Street/Sidewalk,Anti-Jewish,78723,Baker,9
+Jun,2024-1610820,06/09/2024 12:00:00 AM,Sun,0,1,Unknown,1,Unknown,Bomb Threat,Restaurant,Anti-Transgender,78752,Ida,4
+Jun,2024-1640153,06/12/2024 12:00:00 AM,Wed,0,1,Unknown,Unknown,Unknown,Criminal Mischief,Residence/Home,Anti-Asian,78717,Adam,6
+Jun,2024-9010244,06/15/2024 12:00:00 AM,Sat,0,1,Unknown,1,Unknown,Harassment/Criminal Mischief,Residence/Home,Anti-Asian,78717,Adam,6
+Jun,2024-9011035,06/22/2024 12:00:00 AM,Sat,0,Unknown,Unknown,Unknown,Unknown,Harassment,Cyberspace,Anti-Jewish,78741,Henry,3
+Jul,2024-9011325,07/01/2024 12:00:00 AM,Mon,0,1,Unknown,1,White/Non-Hispanic,Criminal Mischief,Residence/Home,Anti-Jewish,78731,Baker,10
+Jul,2024-9016941,07/11/2024 12:00:00 AM,Thu,0,1,0,2,White/Hispanic,Assault,Field/Woods,Anti-Gay (Male),78729,Adam,6
+Jul,2024-1961066,07/14/2024 12:00:00 AM,Sun,0,1,0,1,White/Non-Hispanic,Criminal Mischief,Parking/Drop Lot/Garage,Anti-Black or African American,78758,Adam,7
+Jul,2024-9013328,07/30/2024 12:00:00 AM,Tue,0,1,Unknown,Unknown,Unknown,Harassment,Bar/Nightclub,Anti-Lesbian/Gay/Bisexual/Transgender (Mixed Group),78701,George,9
+Aug,2024-2170375,08/04/2024 12:00:00 AM,Sun,0,3,2,1,Black/Non-Hispanic,Robbery,Parking/Drop Lot/Garage,Anti-Hispanic or Latino,78741,Henry,9
+Aug,2024-2170252,08/04/2024 12:00:00 AM,Sun,0,1,2,1,Black/Non-Hispanic,Robbery,Hwy/Road/Alley/Street/Sidewalk,Anti-Hispanic or Latino,78741,Henry,3
+Aug,2024-2230223,08/10/2024 12:00:00 AM,Sat,0,1,0,1,White/Hispanic,Assault,Hwy/Road/Alley/Street/Sidewalk,Anti-Black or African American,78701,George,9
+Aug,2024-2231641,08/10/2024 12:00:00 AM,Sat,0,1,0,2,Unknown,Theft,Hwy/Road/Alley/Street/Sidewalk,Anti-Gay (Male),78701,George,9
+Aug,2024-2260820,08/13/2024 12:00:00 AM,Tue,0,1,0,1,White/Non-Hispanic,Aggravated Assault,Hwy/Road/Alley/Street/Sidewalk,Anti-Black or African American,78727,Adam,6
+Aug,2024-2280108,08/15/2024 12:00:00 AM,Thu,0,1,1,1,Black/Non-Hispanic,Assault,Hwy/Road/Alley/Street/Sidewalk,Anti-Transgender,78701,George,9
+Sep,2024-2480923,09/04/2024 12:00:00 AM,Wed,0,1,0,1,Unknown,Harassment,Church/Synagogue/Temple/Mosque,Anti-Jewish,78756,Baker,10
+Sep,2024-2561282,09/12/2024 12:00:00 AM,Thu,0,1,0,1,White/Non-Hispanic,Assault,Other/Unknown,Anti-Hispanic or Latino,78741,Henry,3
+Sep,2024-5024335,09/14/2024 12:00:00 AM,Sat,0,1,Unknown,Unknown,Unknown,Terroristic Threat,Church/Synagogue/Temple/Mosque,Anti-Jewish,78731,Baker,10
+Sep,2024-5024727,09/21/2024 12:00:00 AM,Sat,0,1,0,1,White/Non-Hispanic,Terroristic Threat,Residence/Home,Anti-Other Religion,78705,Baker,9
+Sep,2024-2661391,09/22/2024 12:00:00 AM,Sun,0,1,1,0,Black/Non-Hispanic,Terroristic Threat,Air/Bus/Train Terminal,Anti-White,78753,Edward,7
+Sep,2024-9017073,09/28/2024 12:00:00 AM,Sat,0,1,Unknown,Unknown,Unknown,Harassment,Residence/Home,Anti-Jewish,78731,Baker,10
+Sep,2024-2741359,09/30/2024 12:00:00 AM,Mon,1,0,1,0,White/Hispanic,Murder,Parking/Drop Lot/Garage,Anti-Gay (Male); Anti-Black or African American,78758,Edward,4
+Oct,2024-9017404,10/02/2024 12:00:00 AM,Wed,0,1,0,1,Black/Non-Hispanic,Terroristic Threat,Residence/Home,Anti-White,78757,Ida,7
+Oct,2024-2881572,10/13/2024 12:00:00 AM,Sun,0,1,Unknown,Unknown,Unknown,Assault,Hwy/Road/Alley/Street/Sidewalk,Anti-Transgender,78701,George,9
+Oct,2024-2921196,10/18/2024 12:00:00 AM,Fri,0,1,0,1,White/Non-Hispanic,Aggravated Assault,Convenience Store,Anti-Black or African American,78744,Frank,2
+Oct,2024-9019159,10/20/2024 12:00:00 AM,Sun,0,1,Unknown,Unknown,Unknown,Criminal Mischief,Hwy/Road/Alley/Street/Sidewalk,Anti-Jewish,78730,Adam,10
+Oct,2024-5027771,10/26/2024 12:00:00 AM,Sat,0,Unknown,0,1,White/Non-Hispanic,Terroristic Threat,Other/Unknown,Anti-Jewish,78701,George,9
+Nov,2024-3131257,11/08/2024 12:00:00 AM,Fri,0,2,0,1,White/Non-Hispanic,Aggravated Assault,Parking/Drop Lot/Garage,Anti-Hispanic or Latino,78758,Edward,4
+Nov,2024-3141387,11/09/2024 12:00:00 AM,Sat,0,2,0,1,White/Non-Hispanic,Assault,Air/Bus/Train Terminal,Anti-Asian,78701,George,9
+Nov,2024-9020518,11/12/2024 12:00:00 AM,Tue,0,1,0,1,White/Hispanic,Theft,Residence/Home,Anti-Lesbian/Gay/Bisexual/Transgender (Mixed Group),78744,Frank,2
+Nov,2024-3191487,11/13/2024 12:00:00 AM,Wed,0,1,0,1,White/Non-Hispanic,Bomb Threat,Church/Synagogue/Temple/Mosque,Anti-Other Religion,78705,Baker,9
+Nov,2024-9021157,11/18/2024 12:00:00 AM,Mon,0,1,1,1,White/Unknown,Criminal Mischief,Residence/Home,Anti-Jewish,78753,Ida,4
+Nov,2024-9021390,11/24/2024 12:00:00 AM,Sun,0,1,Unknown,Unknown,Unknown,Criminal Mischief,Residence/Home,Anti-Jewish,78745,David,5
+Nov,2024-9021455,11/25/2024 12:00:00 AM,Mon,0,1,0,1,White/Unknown,Harassment,Commercial/Office Building,Anti-Black or African American,78747,Frank,5
+Nov,2024-3330439,11/28/2024 12:00:00 AM,Thu,0,1,Unknown,Unknown,Unknown,Criminal Mischief,Residence/Home,Anti-Jewish,78745,David,5
+Nov,2024-5030333,11/29/2024 12:00:00 AM,Fri,0,1,0,1,White/Hispanic,Harassment,Residence/Home,Anti-Black or African American,78747,Frank,2
+Dec,2024-3420075,12/07/2024 12:00:00 AM,Sat,0,1,0,2,White/Non-Hispanic,Assault,Bar/Nightclub,Anti-Gay (Male),78701,George,9
+Dec,2024-3560097,12/21/2024 12:00:00 AM,Sat,0,1,0,1,White/Non-Hispanic,Assault,Hwy/Road/Alley/Street/Sidewalk,Anti-Gay (Male),78701,George,9
+Dec,2025-9001420,12/29/2024 12:00:00 AM,Sun,0,1,0,1,White/Non-Hispanic,Harassment,Residence/Home,Anti-Gay (Male),78745,Frank,5
+Jan,2025-9001157,01/04/2025 12:00:00 AM,Sat,0,1,Unknown,Unknown,Unknown,Graffiti,Hwy/Road/Alley/Street/Sidewalk,Anti-Jewish,78751,Ida,4
+Jan,2025-150790,01/15/2025 12:00:00 AM,Wed,0,1,0,1,Black/Unknown,Assault,Drug Store/Doctor's Office/Hospital,Anti-Black or African American,78703,Baker,10
+Jan,2025-9001796,01/25/2025 12:00:00 AM,Sat,0,1,0,1,White/Unknown,Assault,Department/ Discount Store,Anti-Asian,78759,Adam,7
+Jan,2025-270513,01/27/2025 12:00:00 AM,Mon,0,1,0,1,White/Hispanic,Terroristic Threat,Service/Gas Station,Anti-Gay (Male),78723,Baker,1
+Jan,2025-9002133,01/29/2025 12:00:00 AM,Wed,0,1,Unknown,Unknown,Unknown,Criminal Mischief,Parking/Drop Lot/Garage,Anti-Jewish,78746,David,8
+Jan,2025-291450,01/29/2025 12:00:00 AM,Wed,0,1,0,1,White/Hispanic,Aggravated Assault,Hwy/Road/Alley/Street/Sidewalk,Anti-Black or African American,78752,Ida,1
+Feb,2025-320689,02/01/2025 12:00:00 AM,Sat,0,1,0,1,White/Hispanic,Criminal Mischief,Hwy/Road/Alley/Street/Sidewalk,Anti-Jewish,78731,Baker,10
+Feb,2025-330666,02/02/2025 12:00:00 AM,Sun,0,1,0,1,White/Hispanic,Robbery,Hwy/Road/Alley/Street/Sidewalk,Anti-Gay (Male),78701,George,9
+Feb,2025-9004084,02/25/2025 12:00:00 AM,Tue,0,1,0,1,White/Non-Hispanic,Harassment,Bar/Nightclub,Anti-Lesbian/Bisexual/Transgender (Mixed Group),78745,David,3
+Feb,2025-9004082,02/25/2025 12:00:00 AM,Tue,0,1,0,1,White/Non-Hispanic,Harassment,Other/Unknown,Anti-Lesbian/Bisexual/Transgender (Mixed Group),78745,David,3
+Feb,2025-9004370,02/27/2025 12:00:00 AM,Thu,0,1,0,1,White/Non-Hispanic,Harassment,Bar/Nightclub,Anti-Lesbian/Bisexual/Transgender (Mixed Group),78745,David,3
+Mar,2025-601075,03/02/2025 12:00:00 AM,Sun,1,0,0,1,White/Non-Hispanic,Assault,Hwy/Road/Alley/Street/Sidewalk,Anti-White/Anti-Hispanic or Latino,78741,Henry,3
+Mar,2025-640147,03/05/2025 12:00:00 AM,Wed,0,1,0,1,White/Non-Hispanic,Assault,Hwy/Road/Alley/Street/Sidewalk,Anti-Black or African American,78701,George,9
+Mar,2025-9004907,03/07/2025 12:00:00 AM,Fri,0,1,0,2,White/Non-Hispanic,Harassment,Residence/Home,Anti-Gay (Male),78705,Baker,9
+Mar,2025-830165,03/24/2025 12:00:00 AM,Mon,0,2,0,1,White/Hispanic,Aggravated Assault,Hwy/Road/Alley/Street/Sidewalk,Anti-Gay (Male),78758,Edward,4
